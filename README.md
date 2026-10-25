@@ -5,6 +5,7 @@ A smart engine idle monitor built in 6 hours at the E2C2 Hackathon. IDLEGuard te
 ## Demo
 
 [![Watch the IDLEGuard demo](https://img.youtube.com/vi/QY-_GydyjAU/hqdefault.jpg)](https://www.youtube.com/watch?v=QY-_GydyjAU)
+
 [Watch the demo on YouTube](https://www.youtube.com/watch?v=QY-_GydyjAU)
 
 ## The Problem
