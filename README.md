@@ -6,8 +6,6 @@ A smart engine idle monitor built in 6 hours at the E2C2 Hackathon. IDLEGuard te
 
 [![Watch the IDLEGuard demo](https://img.youtube.com/vi/QY-_GydyjAU/hqdefault.jpg)](https://www.youtube.com/watch?v=QY-_GydyjAU)
 
-[Watch the demo on YouTube](https://www.youtube.com/watch?v=QY-_GydyjAU)
-
 ## The Problem
 
 Three extra minutes of idling a day wastes roughly $20 to $47 in fuel per car each year. If half of Edmonton idled for three extra minutes a day, that adds up to an estimated $20.5M lost annually ([source](https://carhub.ca/car-idling-how-long-is-too-long-and-what-are-the-effects)). Most drivers idle simply because they don't know when the engine is warm enough to drive.
